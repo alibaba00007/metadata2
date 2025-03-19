@@ -1,0 +1,19 @@
+
+{
+    
+    "name": "Bork",
+    "symbol": "BORK",
+    "description": "Matt Furie,s Dog",
+    "image": "https://github.com/alibaba00007/metadata2/blob/main/tt3.jpeg",
+    "attributes": [
+
+         {
+           "trait_type": "Item",
+           "value": "Climate"
+
+
+          } 
+
+    ]
+}
+
